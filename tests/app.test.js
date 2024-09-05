@@ -41,7 +41,6 @@ describe('POST /api/product/add', () => {
         const response = await request(app).post('/api/product/add').send(data);
         expect(response.statusCode).toBe(200);
         expect(response.body).toBeDefined();
-        expect(response.body).toBeDefined();
         expect(typeof response.body).toBe("object");
     });
     it('Invalid fields: product added', async () => {
