@@ -15,4 +15,4 @@ This project is a mini Node.js application built with Express and Axios. It fetc
 - [Yaniv Ridel](https://github.com/Yanivridel)
 - [Porat Yosef Eliya](https://github.com/porat6766/first_israel_project_api)
 - [Liav Ben Shimon](https://github.com/liavbenshimon/js-tests/tree/main/09.05.2024)
-- [Sasha]()
+- [Aliaksandra Grischuk](https://github.com/sashagriss/FAK-project)
