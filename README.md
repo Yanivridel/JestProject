@@ -10,7 +10,7 @@ This project is a mini Node.js application built with Express and Axios. It fetc
 - **Express Server**: A basic Express server that serves product data from a remote API.
 - **Axios for HTTP Requests**: Utilizes Axios to fetch data from the Fake Store API.
 - **Jest Testing**: Provides unit tests to validate the API integration and error handling.
-- 
+  
 ## Contributors
 - [Yaniv Ridel](https://github.com/Yanivridel)
 - [Porat Yosef Eliya](https://github.com/porat6766/first_israel_project_api)
